@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm James Carter 👋
+🛠️ Open-source contributor | Big tools, AI agents & collaborative projects
+📍 United States 🇺🇸
 
-<!--
-**jamescarterxyz/jamescarterxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I explore and contribute to big open-source tools and projects — the kind built by large communities working together. My current focus is the AI agent wave: agent frameworks, agent skills, and developer tools that help AI assistants do real work.
 
-Here are some ideas to get you started:
+## What I'm exploring right now
+- 🤖 AI agents & agent skills
+- 🧰 Big developer tools and frameworks
+- 🌍 Collaborative open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- 📸 Instagram: https://www.instagram.com/james.carter.xyz
+- 🎵 TikTok: https://www.tiktok.com/@james.carter4010
+- ✈️ Telegram: https://t.me/jamescarterxyz
+- 💬 Reddit: https://www.reddit.com/user/jamescarterxyz
+- ✉️ jamescarter.xyz@outlook.com
